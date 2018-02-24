@@ -1,0 +1,16 @@
+{
+  "name": "gt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "web3Shortcuts.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "ethereumjs-tx": "^1.3.3",
+    "ethereumjs-util": "^4.5.0",
+    "web3": "^0.17.0-alpha"
+  }
+}
