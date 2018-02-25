@@ -7,10 +7,10 @@ You will also need **npm** which is automatically installed when you install Nod
 Check if it's the latest version:<br />
         ```npm install npm@latest -g```
 
-Download the repository using <br />
+Download the repository using: <br />
         ```git clone https://github.com/nikoskar/web3Shortcuts4NodeConsole```
 
-cd into it and run <br />
+cd into it and run: <br />
 ```npm install ```     <br />
 to download the required dependencies(web3, ethereumjs-tx, ethereumjs-util)
 <br />
