@@ -16,4 +16,4 @@ to download the required dependencies(web3, ethereumjs-tx, ethereumjs-util)
 <br />
 
 
-#### use for test purposes only. This is outdated. Probably not secure
+#### use for test purposes only. Expect this to be outdated
